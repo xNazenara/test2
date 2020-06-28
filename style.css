@@ -1,0 +1,8 @@
+body {
+  background: indigo;
+}
+.labirinth {
+  width: 100px;
+  height: 100px;
+  background: #151515;
+}
